@@ -1,7 +1,7 @@
 # Electricity_Demand_Projection
 A simple Streamlit app showing eectriicty demand projection using 2 different modules namely LSTM and Hybrid[LSTM + Random Forest].
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](streamlit.app)
 
 ### How to run it on your own machine
 
